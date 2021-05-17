@@ -1,0 +1,24 @@
+{
+  "name": "dalton",
+  "displayName": "dalton",
+  "description": "dalton theme",
+  "icon": "assets/logo.png",
+  "publisher": "edersonferreira",
+  "repository": "https://github.com/edersonferreira/dalton-vscode",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dalton",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dalton-color-theme.json"
+      }
+    ]
+  }
+}
