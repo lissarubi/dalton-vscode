@@ -6,9 +6,9 @@ Dalton is a minimalist theme for Vsocd, very based in [Ayu Vim theme](https://gi
 
 # Screenshots
 
-![Dalton Screenshot](assets/01.png)
-![Dalton Screenshot](assets/02.png)
-![Dalton Screenshot](assets/03.png)
+![Dalton Screenshot](https://raw.githubusercontent.com/edersonferreira/dalton-vscode/main/assets/01.png)
+![Dalton Screenshot](https://raw.githubusercontent.com/edersonferreira/dalton-vscode/main/assets/02.png)
+![Dalton Screenshot](https://raw.githubusercontent.com/edersonferreira/dalton-vscode/main/assets/03.png)
 
 # Install
 
